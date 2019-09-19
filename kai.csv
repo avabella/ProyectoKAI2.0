@@ -1,10 +1,10 @@
 Status;Source table;Target table;Total rows;Migrated rows;Success rate;Duration (DD:HH:MM:SS:MS);Error messages
-"Initial";"`kai`.`tb_detallemovimiento`";;;;"N/A";;
-"Initial";"`kai`.`tb_estadousuario`";;;;"N/A";;
-"Initial";"`kai`.`tb_permisos`";;;;"N/A";;
-"Initial";"`kai`.`tb_proveedor`";;;;"N/A";;
-"Initial";"`kai`.`tb_rol`";;;;"N/A";;
-"Initial";"`kai`.`tb_tipoarticulo`";;;;"N/A";;
-"Initial";"`kai`.`tb_tipodocumento`";;;;"N/A";;
-"Initial";"`kai`.`tb_tipomovimiento`";;;;"N/A";;
-"Initial";"`kai`.`tb_usuario`";;;;"N/A";;
+Initial;`kai`.`tb_detallemovimiento`;;;;N/A;;
+Initial;`kai`.`tb_estadousuario`;;;;N/A;;
+Initial;`kai`.`tb_permisos`;;;;N/A;;
+Initial;`kai`.`tb_proveedor`;;;;N/A;;
+Initial;`kai`.`tb_rol`;;;;N/A;;
+Initial;`kai`.`tb_tipoarticulo`;;;;N/A;;
+Initial;`kai`.`tb_tipodocumento`;;;;N/A;;
+Initial;`kai`.`tb_tipomovimiento`;;;;N/A;;
+Initial;`kai`.`tb_usuario`;;;;N/A;;
